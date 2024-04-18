@@ -1,0 +1,19 @@
+{
+    "name": "rafael/php-with-sqlite",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rafael\\PhpWithSqlite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rafael",
+            "email": "rafael_sousa2018@outlook.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
