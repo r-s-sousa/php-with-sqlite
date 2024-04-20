@@ -1,6 +1,8 @@
 <?php
 
-namespace Rafael\PhpWithSqlite\Models;
+declare (strict_types=1);
+
+namespace app\model;
 
 // class User extends BaseModel
 class User

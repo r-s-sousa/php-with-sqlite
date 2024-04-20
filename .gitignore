@@ -1,6 +1,10 @@
 # Ignore vendor directories
 /vendor/
 
+.php-cs-fixer.cache
+
+psalm.xml
+
 # Ignore composer.lock file
 composer.lock
 
